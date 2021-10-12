@@ -1,7 +1,6 @@
 # Table of contents
 
-* [requests模块](README.md)
-* [Python](readme/README.md)
+* [Python](README.md)
   * [1.Python\_基础](readme/1.python-ji-chu/README.md)
     * [Pool.map创建线程池](readme/1.python-ji-chu/pool.map-chuang-jian-xian-cheng-chi.md)
     * [文件操作](readme/1.python-ji-chu/wen-jian-cao-zuo.md)
