@@ -4,7 +4,7 @@
 
 ## 安装MongoDB
 
-pass
+pass---
 
 ## 安装RoboMongo
 
