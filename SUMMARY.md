@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Python](README.md)
-
 ## Python\_基础
 
-* [错误和异常](python-ji-chu/cuo-wu-he-yi-chang.md)
+* [错误和异常](README.md)
 * [多任务](python-ji-chu/duo-ren-wu.md)
 * [列表](python-ji-chu/lie-biao.md)
 * [内置函数](python-ji-chu/nei-zhi-han-shu.md)
