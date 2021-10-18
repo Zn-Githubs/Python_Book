@@ -14,12 +14,15 @@
 
 ## Python\_爬虫
 
-* [Page 2](python-pa-chong/page-2.md)
+* [Module_os](python-pa-chong/module_os.md)
+* [Module_Requests](python-pa-chong/module_requests.md)
+* [并发编程](python-pa-chong/bing-fa-bian-cheng.md)
+* [数据解析](python-pa-chong/shu-ju-jie-xi.md)
 
 ## 第三方库
 
-* [Page 3](di-san-fang-ku/page-3.md)
+* [Numpy](di-san-fang-ku/numpy.md)
 
 ## 数据库
 
-* [Page 4](shu-ju-ku/page-4.md)
+* [MongoDB](shu-ju-ku/mongodb.md)
